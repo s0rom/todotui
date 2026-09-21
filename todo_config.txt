@@ -1,0 +1,19 @@
+theme=0
+mode=0
+key_up=UP
+key_down=DOWN
+key_left=LEFT
+key_right=RIGHT
+key_move_left=SHIFT_LEFT
+key_move_right=SHIFT_RIGHT
+key_delete=d
+key_toggle_mode=TAB
+key_quit=ESC
+
+# Custom ANSI colors (RGB format: \033[38;2;R;G;Bm)
+todo_color_dark=\033[38;2;255;255;255m
+todo_color_light=\033[38;2;30;30;30m
+in_prog_color_dark=\033[38;2;120;235;120m
+in_prog_color_light=\033[38;2;20;100;20m
+done_color_dark=\033[38;2;120;30;30m
+done_color_light=\033[38;2;10;70;10m

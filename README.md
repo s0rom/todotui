@@ -7,8 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Language](https://img.shields.io/badge/C%2B%2B-17-blue.svg)](https://isocpp.org/)
 
-<!-- Replace with your actual screenshot/GIF path -->
-![todotui preview](./assets/preview.png)
+![todotui preview](./assets/TODOTUI.gif)
 
 </div>
 
@@ -19,6 +18,7 @@
 - **Fast & Lightweight**: Built with performance in mind.
 - **Custom Themes**: Fully customizable UI colors via ANSI hex/RGB escapes.
 - **Auto-Persistence**: Automatically saves and restores your tasks.
+
 
 ---
 
